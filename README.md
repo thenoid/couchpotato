@@ -39,5 +39,6 @@ Include `couchpotato` in your node's `run_list`:
 
 ## License and Authors
 
-Author:: Michael Burns (<michael@mirwin.net>)
 Author:: Alex Howells (<alex@howells.me>)
+
+Author:: Michael Burns (<michael@mirwin.net>)
